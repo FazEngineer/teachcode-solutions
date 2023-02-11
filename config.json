@@ -1,20 +1,22 @@
 {
   "learningTrack": "Python",
   "userName": "Faz",
-  "taskCount": 5,
+  "taskCount": 6,
   "keys": [
     "5e06b81de9ac43218a974785ffce8146",
     "igkdejl8tofmvlvpk8y33yizs4u2fgxlcmgz",
     "gb9hhekti85m1veyep9obeciyncbvauufjx1",
     "caon69yqxrgmi913qbxja99qovrwmuuezf52",
     "rhw2ipvnue198fa9o5hul8aydlnxqwyfkd7z",
-    "lv16pqwc3pdr4aof2dwmyynouyqdvtzdf3qp"
+    "lv16pqwc3pdr4aof2dwmyynouyqdvtzdf3qp",
+    "njlse2kg9kdrz5r29tleh2f2ntkj59qedf1y"
   ],
   "userSubmittedFiles": [
     "task1.py",
     "task2.py",
     "task3.py",
     "task4.py",
-    "task5.py"
+    "task5.py",
+    "task6.py"
   ]
 }

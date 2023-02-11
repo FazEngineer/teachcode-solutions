@@ -1,6 +1,7 @@
-for i in range(10, 19):
-    if i == 15:
+for num in range(10, 19, 1):
+    if (num == 15):
         continue
-    if i == 18:
+    elif (num > 18):
         break
-    print(i)
+    else:
+        print(num)

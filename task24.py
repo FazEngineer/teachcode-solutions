@@ -25,7 +25,4 @@ dict_random[4] = 'four'
 for i,j in dict_random.items():
     print(i,j)
 
-
-
-
 # num.update({5: 'five'})

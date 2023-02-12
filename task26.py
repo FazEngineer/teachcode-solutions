@@ -6,3 +6,12 @@ def factorial(n):
 
 a = factorial(6)
 print(a)
+
+
+factorial = {6, 5, 4, 3, 2, 1}
+
+total = 1
+for num in factorial:
+    total *= num
+
+print(total)
